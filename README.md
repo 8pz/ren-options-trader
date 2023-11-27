@@ -26,7 +26,7 @@ Work in progress
 
 ### 11/05/23
 
-- Initial release. See [configuration](https://github.com/8pz/ren-options-trader/wiki/Configuration).
+- Initial release
 
 ### 11/07/23
 
@@ -70,10 +70,10 @@ Work in progress
 - GUI clock
 - Persistent monitored positions
 
-### 11/25/23
+### 11/26/23
 
 - Settings page for analysts and config
-- Refactored config system
+- Refactored config and api system
 - Updated error handling
 - ```"alert_type"``` deprecated
 - Bug fixes
