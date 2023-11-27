@@ -20,7 +20,29 @@ program to execute options trades from Discord analyst alerts
 
 # Capabilites
 
-Work in progress
+Ren Options Trader is an automated bot built in Python that can follow an analyst's alerts on Discord. It uses a selfbot system in order to fetch alerts without interacting with the client in any way. It then interprets those alerts and execute options alerts using the Webull API.
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/ae7f4dba-1888-4cf8-ac11-fe0897a75dfa)
+
+## Highly configurable
+
+Designed to be flexible and reliable -- it provides users with a wide array of configuration options, allowing the program to trade like how the user would. 
+
+- An analyst with a non-specific entry structure?
+   - Setup the config to enter and exit off any keyword.
+- Analyst doesn't tell you what trade to exit? -- Auto fetch details 
+   - Automatically fetch the details of last placed trade of the specific analyst to use to trim, exit, or average up/down.
+- Auto cancel order
+   - any standing orders after a certain amount of time will be cancelled
+- No more missing out on exits -- auto cancel and resend sell order
+   - If a LMT sell order was not filled, it will resend it at MKT price.
+- Backtesting
+   - The program provides both a live and a paper account, allowing the user to test their configs and analysts first before putting anything on the line. All trade data is exported to a csv.
+- A risky trade? contracts too expensive? -- Keyword and auto position sizing
+   - The program can automatically detect certain keywords in order to not enter a trade or enter half sized. It can automatically determine how many contracts to buy based off a limit as long as the contract size doesn't deceed/exceed a limit.
+
+## Video demonstration
+
+...
 
 # Changelog
 
