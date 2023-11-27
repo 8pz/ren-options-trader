@@ -11,6 +11,8 @@ program to execute options trades from Discord analyst alerts
 </pre>
 </div>
 
+Currently in private access. [Contact me](https://github.com/8pz/ren-options-trader#access) early access
+
 # Table of Contents
 
 - [Capabilites](https://github.com/8pz/ren-options-trader#capabilites)
