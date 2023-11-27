@@ -34,11 +34,11 @@ Designed to be flexible and reliable -- it provides users with a wide array of c
 - Analyst doesn't tell you what trade to exit? -- Auto fetch details 
    - Automatically fetch the details of last placed trade of the specific analyst to use to trim, exit, or average up/down.
 - Auto cancel order
-   - any standing orders after a certain amount of time will be cancelled
-- No more missing out on exits -- auto cancel and resend sell order
+   - Any standing orders after a certain amount of time will be cancelled
+- No more missing out on exits -- Auto cancel and resend sell order
    - If a LMT sell order was not filled, it will resend it at MKT price.
 - Backtesting
-   - The program provides both a live and a paper account, allowing the user to test their configs and analysts first before putting anything on the line. All trade data is exported to a csv.
+   - The program provides access to both a live and a paper account, allowing the user to test their configs and analysts first before putting anything on the line. All trade data is exported to a csv.
 - A risky trade? contracts too expensive? -- Keyword and auto position sizing
    - The program can automatically detect certain keywords in order to not enter a trade or enter half sized. It can automatically determine how many contracts to buy based off a limit as long as the contract size doesn't deceed/exceed a limit.
 
