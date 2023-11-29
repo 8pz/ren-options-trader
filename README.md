@@ -23,21 +23,54 @@ Currently in private access. [Contact me](https://github.com/8pz/ren-options-tra
 
 # Capabilites
 
-Ren Options Trader is an automated bot built in Python that can follow an analyst's alerts on Discord. It uses a selfbot system in order to fetch alerts without interacting with the client in any way. It then interprets those alerts and execute options alerts using the Webull API.
+Ren Options Trader is an automated bot built in Python that can follow an analyst's alerts on Discord. It uses a selfbot system in order to fetch alerts, but does not interact with the Discord client in any way. It then interprets those alerts, executes them, and tracks them using the Webull API. 
 
-![image](https://github.com/8pz/ren-options-trader/assets/70970973/dd562cf0-4c1a-4982-b723-c4adf2ba5827)
+<details>
+<summary>Trade results (from 11/14)</summary>
 
-![image](https://github.com/8pz/ren-options-trader/assets/70970973/799c3e59-2c04-4179-a45e-696f19255051)
+<br>
 
-![image](https://github.com/8pz/ren-options-trader/assets/70970973/99305cca-00dd-46ac-a0ba-4c48f1715c0a)
+| ID         | Analyst       | Ticker | Strike Price | Expiration | Quantity | Entry Filled Time       | Entry Price | Exit Filled Time                                                                                                         | Exit Price               | PNL    |
+| ---------- | ------------- | ------ | ------------ | ---------- | -------- | ----------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------ | ------ |
+| 1037703227 | Paper Prophet | TSLA   | 240c         | 11/14      | 4        | 11/14/2023 13:40:44 EST | 2.9         |                                                                                                                          | 2.22                     | -216   |
+| 1042068551 | Paper Prophet | QQQ    | 384p         | 11/14      | 9        | 11/14/2023 14:06:49 EST | 0.45        |                                                                                                                          | 0.36                     | -9.0   |
+| 1042175627 | Bryce         | QQQ    | 385p         | 11/15      | 10       | 11/15/2023 09:31:47 EST | 0.56        | 11/15/2023 09:33:58 EST                                                                                                  | 0.53                     | -30    |
+| 1038453107 | Paper Prophet | NVDA   | 500c         | 11/15      | 1        | 11/15/2023 10:03:54 EST | 3.2         | 11/15/2023 10:07:30 EST,                                                                                                 | 3.550,                   | 35.0   |
+| 1042182659 | Paper Prophet | SPY    | 452c         | 11/15      | 13       | 11/15/2023 10:25:53 EST | 0.48        | 11/15/2023 10:28:32 EST,                                                                                                 | 0.45,                    | -39.0  |
+| 1042182659 | Paper Prophet | SPY    | 452c         | 11/15      | 21       | 11/15/2023 10:30:54 EST | 0.41        | 11/15/2023 10:51:16 EST,                                                                                                 | 0.58                     | 357    |
+| 1042212638 | Paper Prophet | QQQ    | 387c         | 11/15      | 7        | 11/15/2023 10:35:44 EST | 0.79        | 11/15/2023 10:41:33 EST,11/15/2023 10:46:49 EST,11/15/2023 10:51:16 EST,                                                 | 0.97,0.94,1.22,          | 188.0  |
+| 1042213118 | Bryce         | QQQ    | 383p         | 11/16      | 12       | 11/16/2023 09:31:54 EST | 0.53        | 11/16/2023 09:33:29 EST,Unknown                                                                                          | 0.63,0.51                | 48     |
+| 1042173777 | Paper Prophet | SPY    | 450c         | 11/16      | 7        | 11/16/2023 09:54:17 EST | 0.95        | 11/16/2023 09:56:29 EST                                                                                                  | 1.05                     | 70     |
+| 1042231584 | Bryce         | SPX    | 4485p        | 11/16      | 2        | 11/16/2023 10:23:06 EST | 2.45        | 11/16/2023 10:36:19 EST                                                                                                  | 3.15                     | 140    |
+| 1042182124 | Paper Prophet | SPY    | 449c         | 11/16      | 15       | 11/16/2023 13:58:50 EST | 0.43        | 11/16/2023 14:02:36 EST,                                                                                                 | 0.41,                    | -30.0  |
+| 1042286112 | Paper Prophet | SPX    | 4505c        | 11/16      | 3        | 11/16/2023 14:45:23 EST | 2.2         | 11/16/2023 14:48:26 EST,11/16/2023 14:59:26 EST,                                                                         | 2.75,1.95                | 5.0    |
+| 1041712413 | Paper Prophet | TSLA   | 250c         | 11/20      | 7        | 11/20/2023 09:42:18 EST | 0.94        | 11/20/2023 9:49:23 EST,11/20/2023 9:53:51 EST,                                                                           | 0.98,0.89                | 1      |
+| 1042294183 | Bryce         | SPX    | 4535c        | 11/20      | 2        | 11/20/2023 09:48:03 EST | 2.25        | 11/20/2023 9:53:48 EST,                                                                                                  | 2.70,                    | 90     |
+| 1042194345 | Paper Prophet | SPY    | 453c         | 11/20      | 13       | 11/20/2023 12:14:41 EST | 0.51        | 11/20/2023 12:32:44 EST,                                                                                                 | 0.46,                    | -65.0  |
+| 1042230461 | Bryce         | SPX    | 4520p        | 11/21      | 1        | 11/21/2023 09:31:23 EST | 2.55        | 11/21/2023 09:47:09 EST,                                                                                                 | 2.33,                    | -22.0  |
+| 1042198517 | Paper Prophet | SPY    | 453c         | 11/21      | 7        | 11/21/2023 09:39:36 EST | 1.04        | 11/21/2023 09:46:09 EST,11/21/2023 10:45:01 EST,11/21/2023 10:48:17 EST,11/21/2023 11:01:52 EST,11/21/2023 11:12:21 EST, | 0.83,0.62,0.69,0.7,0.58, | -138.0 |
+| 1042231987 | Paper Prophet | SPY    | 452p         | 11/21      | 11       | 11/21/2023 09:48:04 EST | 0.59        | 11/21/2023 09:53:03 EST,                                                                                                 | 0.54                     | -55    |
+| 1042230546 | Paper Prophet | IWM    | 180c         | 11/22      | 23       | 11/21/2023 10:09:33 EST | 0.26        | 11/21/2023 10:55:55 EST,11/21/2023 11:15:47 EST,                                                                         | 0.29,0.25,               | -11.0  |
+| 1042198517 | Paper Prophet | SPY    | 453c         | 11/21      | 9        | 11/21/2023 10:23:36 EST | 0.78        | 11/21/2023 10:45:01 EST,11/21/2023 10:48:17 EST,11/21/2023 11:01:52 EST,11/21/2023 11:12:21 EST,                         | 0.62,0.69,0.7,0.58,      | -60.0  |
+| 1042198517 | Paper Prophet | SPY    | 453c         | 11/21      | 12       | 11/21/2023 10:34:28 EST | 0.55        | 11/21/2023 10:45:01 EST,11/21/2023 10:48:17 EST,11/21/2023 11:01:52 EST,11/21/2023 11:12:21 EST,                         | 0.62,0.69,0.7,0.58,      | 9.0    |
+| 1041716749 | Paper Prophet | XOM    | 105c         | 11/21      | 15       | 11/21/2023 10:51:35 EST | 0.44        | 11/21/2023 11:04:44 EST,                                                                                                 | 0.56,0.53                | 159.0  |
+| 1042198517 | Paper Prophet | SPY    | 453c         | 11/21      | 8        | 11/21/2023 14:14:34 EST | 0.86        | 11/21/2023 15:02:49 EST,                                                                                                 | 0.89,                    | 12     |
+| 1042226466 | Bryce         | SPX    | 4575c        | 11/22      | 3        | 11/22/2023 09:31:42 EST | 2.45        | 11/22/2023 09:33:21 EST                                                                                                  | 2.95                     | 150    |
+| 1042307513 | Bryce         | SPX    | 4580c        | 11/22      | 1        | 11/22/2023 09:39:07 EST | 2.45        | 11/22/2023 09:39:21 EST                                                                                                  | 3.1                      | 65     |
+| 1042185411 | Paper Prophet | TSLA   | 242.50c      | 11/22      | 3        | 11/22/2023 09:49:22 EST | 1.9         | 11/22/2023 09:53:21 EST                                                                                                  | 1.3                      | -180   |
+| 1041694562 | Paper Prophet | TSLA   | 240c         | 11/22      | 6        | 11/22/2023 10:31:23 EST | 1.14        | 11/22/2023 10:39:40 EST,                                                                                                 | 0.96,                    | -108.0 |
+| 1041694562 | Paper Prophet | TSLA   | 240c         | 11/22      | 4        | 11/22/2023 10:50:14 EST | 0.92        | 11/22/2023 10:53:43 EST,                                                                                                 | 0.68,                    | -96.0  |
+| 1041792676 | Paper Prophet | META   | 330p         | 11/27      | 5        | 11/27/2023 14:25:55 EST | 1.5         | 11/27/2023 14:49:01 EST,                                                                                                 | 1.96,                    | 92.0   |
+| 1042300977 | Diesel        | SPX    | 4545p        | 11/28      | 3        | 11/28/2023 13:56:23 EST | 1.1         | 11/28/2023 13:57:47 EST,11/28/2023 14:08:47 EST,                                                                         | 1.28,1.78                | 104    |
+| 1042304792 | Bryce         | SPX    | 4570p        | 11/29      | 3        | 11/29/2023 10:04:03 EST | 2.45        | 11/29/2023 10:06:30 EST,                                                                                                 | 3.6,                     | 345    |
+| 1041793476 | Paper Prophet | BA     | 225c         | 11/29      | 4        | 11/29/2023 12:38:22 EST | 1.24        | 11/29/2023 13:14:49 EST,11/29/2023 13:21:24 EST                                                                          | 1.51,1.57                | 87     |
+|            |
 
-![image](https://github.com/8pz/ren-options-trader/assets/70970973/a2427681-26a4-405b-8572-5ba73ed35a26)
-![image](https://github.com/8pz/ren-options-trader/assets/70970973/d0972d1b-2418-41f4-8baf-c7070f66c8ef)
-
+</details>
 
 ## Highly configurable
 
-Designed to be flexible and reliable -- it provides users with a wide array of configuration options, allowing the program to trade like how the user would. 
+Designed to be flexible and reliable -- it provides users with a wide array of configuration options, allowing the program to trade like a real person. 
 
 - An analyst with a non-specific entry structure?
    - Setup the config to enter and exit off any keyword.
@@ -53,8 +86,17 @@ Designed to be flexible and reliable -- it provides users with a wide array of c
    - The program can automatically detect certain keywords in order to not enter a trade or enter half sized. It can automatically determine how many contracts to buy based off a limit as long as the contract size doesn't deceed/exceed a limit.
 - Extensive logging
    - The program provides detailed logs, allowing you to understand exactly how the system works and improve on your configs.
+ 
+## Showcase
 
-## Video demonstration
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/dd562cf0-4c1a-4982-b723-c4adf2ba5827)
+
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/799c3e59-2c04-4179-a45e-696f19255051)
+
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/99305cca-00dd-46ac-a0ba-4c48f1715c0a)
+
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/a2427681-26a4-405b-8572-5ba73ed35a26)
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/d0972d1b-2418-41f4-8baf-c7070f66c8ef)
 
 https://github.com/8pz/ren-options-trader/assets/70970973/a3cd2d13-09d5-49fe-b268-eb72810c7e3b
 
