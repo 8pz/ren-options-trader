@@ -27,6 +27,11 @@ Ren Options Trader is an automated bot built in Python that can follow an analys
 
 ![image](https://github.com/8pz/ren-options-trader/assets/70970973/fc33d2f9-f9d1-4f3a-a9fd-1d4451f9a152)
 
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/799c3e59-2c04-4179-a45e-696f19255051)
+
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/99305cca-00dd-46ac-a0ba-4c48f1715c0a)
+
+
 ## Highly configurable
 
 Designed to be flexible and reliable -- it provides users with a wide array of configuration options, allowing the program to trade like how the user would. 
@@ -48,7 +53,7 @@ Designed to be flexible and reliable -- it provides users with a wide array of c
 
 ## Video demonstration
 
-...
+https://github.com/8pz/ren-options-trader/assets/70970973/a3cd2d13-09d5-49fe-b268-eb72810c7e3b
 
 # Changelog
 
