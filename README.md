@@ -209,5 +209,6 @@ The automation of User Discord accounts also known as self-bots is a violation o
 Contact me for private access
 
 - discord @ 123781023
-- tele @ onasn
+- tele @ [onasn](https://t.me/onasn)
 - email @ 123781023@proton.me
+
