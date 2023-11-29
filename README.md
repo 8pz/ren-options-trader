@@ -14,8 +14,6 @@ Currently in private access. [Contact me](https://github.com/8pz/ren-options-tra
 
 </div>
 
-
-
 # Table of Contents
 
 - [Capabilites](https://github.com/8pz/ren-options-trader#capabilites)
@@ -45,6 +43,8 @@ Designed to be flexible and reliable -- it provides users with a wide array of c
    - The program provides access to both a live and a paper account, allowing the user to test their configs and analysts first before putting anything on the line. All trade data is exported to a csv.
 - A risky trade? contracts too expensive? -- Keyword and auto position sizing
    - The program can automatically detect certain keywords in order to not enter a trade or enter half sized. It can automatically determine how many contracts to buy based off a limit as long as the contract size doesn't deceed/exceed a limit.
+- Extensive logging
+   - The program provides detailed logs, allowing you to understand exactly how the system works and improve on your configs.
 
 ## Video demonstration
 
@@ -67,7 +67,6 @@ Designed to be flexible and reliable -- it provides users with a wide array of c
 
 - Auto cancel order if not filled
 - Custom Webull API
-- Added tests (somewhat functional)
 - Improved overview command
 
 ### 11/10/23
@@ -75,7 +74,6 @@ Designed to be flexible and reliable -- it provides users with a wide array of c
 - Auto cancel and resend sell orders as market orders if not filled
 - Averaging up/down
 - Improved tracking system for open positions
-- Bug and QoL changes
 - Improved code structure
 
 ### 11/14/23
@@ -104,7 +102,17 @@ Designed to be flexible and reliable -- it provides users with a wide array of c
 - Refactored config and api system
 - Updated error handling
 - ```"alert_type"``` deprecated
-- Bug fixes
+
+### 11/28/23
+
+- Refactored `handler.py`, `utils.py` for readability and expandability
+- Revamped tests
+- Detailed logs which logs actions (trigger keywords, entry/sell, etc) for a specific trade
+
+## In development
+
+- Preset message formats
+- Further refactoring for readability and expandability
 
 # Disclaimer
 
