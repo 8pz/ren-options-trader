@@ -29,6 +29,7 @@ Ren Options Trader is an automated bot built in Python that can follow an analys
 <summary>Trade results (from 11/14)</summary>
 
 <br>
+
 | ID         | Analyst       | Ticker | Strike Price | Expiration | Quantity | Entry Filled Time       | Entry Price | Exit Filled Time                                                                                                         | Exit Price               | PNL    |
 | ---------- | ------------- | ------ | ------------ | ---------- | -------- | ----------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------ | ------ |
 | 1037703227 | Paper Prophet | TSLA   | 240c         | 11/14      | 4        | 11/14/2023 13:40:44 EST | 2.9         |                                                                                                                          | 2.22                     | -216   |
@@ -64,7 +65,7 @@ Ren Options Trader is an automated bot built in Python that can follow an analys
 | 1042304792 | Bryce         | SPX    | 4570p        | 11/29      | 3        | 11/29/2023 10:04:03 EST | 2.45        | 11/29/2023 10:06:30 EST,                                                                                                 | 3.6,                     | 345    |
 | 1041793476 | Paper Prophet | BA     | 225c         | 11/29      | 4        | 11/29/2023 12:38:22 EST | 1.24        | 11/29/2023 13:14:49 EST,11/29/2023 13:21:24 EST,Returned time: 11/29/2023 13:51:25 EST                                   | 1.51,1.57,1.5            | 116    |
 | 1042301429 | Paper Prophet | QQQ    | 391c         | 11/29      | 12       | 11/29/2023 14:10:49 EST | 0.39        | 11/29/2023 14:12:16 EST,11/29/2023 14:27:28 EST,                                                                         | 0.45,                    | 72     |
-
+|            |
 </details>
 
 ## Highly configurable
