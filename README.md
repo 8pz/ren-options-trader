@@ -25,7 +25,7 @@ Currently in private access. [Contact me](https://github.com/8pz/ren-options-tra
 
 Ren Options Trader is an automated bot built in Python that can follow an analyst's alerts on Discord. It uses a selfbot system in order to fetch alerts without interacting with the client in any way. It then interprets those alerts and execute options alerts using the Webull API.
 
-![image](https://github.com/8pz/ren-options-trader/assets/70970973/81780cd8-a022-46c2-9e7f-5a2f574fc8aa)
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/fc33d2f9-f9d1-4f3a-a9fd-1d4451f9a152)
 
 ## Highly configurable
 
