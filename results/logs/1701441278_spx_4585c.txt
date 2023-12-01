@@ -1,0 +1,10 @@
+Contract: SPX 12/01 4585c
+Filled time: 12/01/2023 09:34:25 EST
+Filled price: 1.9
+Content: bto spx 12/01 4585c  2.65 half 846415857311416351 (Trigger: half)
+--------------------------------------
+Exit: SPXW 12/01 4585c
+Filled price: 2.15
+Filled time: 12/01/2023 09:37:11 EST
+Content: nope closed it immediately. reversed. entering nq future longs as well (Trigger: closed)
+--------------------------------------

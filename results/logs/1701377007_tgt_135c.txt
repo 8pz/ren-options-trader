@@ -1,0 +1,10 @@
+Contract: TGT 12/15 135c
+Filled time: 11/30/2023 15:43:16 EST
+Filled price: 1.58
+Content: 948220810995306506 opening - swing trade 📜 contract: tgt 12/15 135c  1.65 🛑 stop:  132.40 📝 notes: ​  intended to be opened in the last 30m of trade (Trigger: OPENING - SWING TRADE)
+--------------------------------------
+Exit: TGT 12/15 135c
+Filled price: 1.8
+Filled time: 12/01/2023 14:17:13 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------

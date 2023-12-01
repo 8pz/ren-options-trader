@@ -1,15 +1,15 @@
 Contract: QQQ 11/29 391c
 Filled time: 11/29/2023 14:10:49 EST
 Filled price: 0.39
-Content: 948220810995306506 new entry - day trade 🎟️ contract: qqq 391c  .35
- 🛑 stop: 390.50
- 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
+Content: 948220810995306506 new entry - day trade 🎟️ contract: qqq 391c  .35 🛑 stop: 390.50 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
 --------------------------------------
-Exit: QQQ 11/29 391c
+Trim: QQQ 11/29 391c
 Filled price: 0.45
 Filled time: 11/29/2023 14:12:16 EST
-Content: 948220810995306506 trimming - day trade ✂️ trim: qqq 391c  .45
- 📝 notes: ​
- 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+Content: 948220810995306506 trimming - day trade ✂️ trim: qqq 391c  .45 📝 notes: ​ 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
 --------------------------------------
-
+Exit: QQQ 11/29 391c
+Filled price: 0.27
+Filled time: 11/29/2023 14:27:28 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------

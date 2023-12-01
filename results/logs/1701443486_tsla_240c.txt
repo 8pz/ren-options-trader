@@ -1,0 +1,14 @@
+Contract: TSLA 12/01 240c
+Filled time: 12/01/2023 10:11:13 EST
+Filled price: 0.43
+Content: 948220810995306506 new entry - day trade 🎟️ contract: tsla 240c  .39
+ 🛑 stop: 234.25
+ 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
+--------------------------------------
+Exit: TSLA 12/01 240c
+Filled price: 0.3
+Filled time: 12/01/2023 10:17:05 EST
+Content: 948220810995306506 closing - day trade 🪂 exit: meta 325c  .6 tsla 240c  .3
+ 📝 notes: no dice (Trigger: CLOSING - DAY TRADE)
+--------------------------------------
+

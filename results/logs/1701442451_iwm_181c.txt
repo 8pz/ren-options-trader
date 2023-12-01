@@ -1,0 +1,25 @@
+Contract: IWM 12/01 181c
+Filled time: 12/01/2023 09:53:58 EST
+Filled price: 0.33
+Content: 948220810995306506 new entry - day trade 🎟️ contract: iwm 181c  .34 🛑 stop: ​ 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
+--------------------------------------
+Trim: IWM 12/01 181c
+Filled price: 0.48
+Filled time: 12/01/2023 09:57:37 EST
+Content: 948220810995306506 trimming - day trade ✂️ trim: iwm 181c  .47 📝 notes: ​ 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+--------------------------------------
+Trim: IWM 12/01 181c
+Filled price: 0.64
+Filled time: 12/01/2023 10:03:32 EST
+Content: 948220810995306506 trimming - day trade ✂️ trim: iwm 181c  .63 📝 notes: ​ 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+--------------------------------------
+Trim: IWM 12/01 181c
+Filled price: 1.14
+Filled time: 12/01/2023 10:55:37 EST
+Content: 948220810995306506 trimming - day trade ✂️ trim: iwm 181c  1.15 📝 notes: sl up to 0 🤣  🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+--------------------------------------
+Exit: IWM 12/01 181c
+Filled price: 2.09
+Filled time: 12/01/2023 11:29:25 EST
+Content: 948220810995306506 trimming - day trade ✂️ trim: iwm 181c  2.05 📝 notes: 500% 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+--------------------------------------
