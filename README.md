@@ -162,11 +162,18 @@ https://github.com/8pz/ren-options-trader/assets/70970973/a3cd2d13-09d5-49fe-b26
 - Updated error handling
 - ```"alert_type"``` deprecated
 
-### 11/28/23
+### 11/29/23
 
 - Refactored `handler.py`, `utils.py` for readability and expandability
 - Revamped tests
 - Detailed logs which logs actions (trigger keywords, entry/sell, etc) for a specific trade
+- Max trade size for each analyst
+
+### 12/04/23
+
+- Message logs
+- Average down improvements
+- Improved log handler system
 
 ## In development
 
