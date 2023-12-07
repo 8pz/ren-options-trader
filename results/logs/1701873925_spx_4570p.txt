@@ -1,0 +1,10 @@
+BTO: 1x SPX 12/06 4570p
+Filled price: 3.3
+Filled time: 12/06/2023 09:45:19 EST
+Content: bto spx 12/06 4570p  3.25 half 846415857311416351 (Trigger: BTO)
+--------------------------------------
+Exit: SPXW 12/06 4570p
+Filled price: 3.35
+Filled time: 12/06/2023 09:46:11 EST
+Content: got it! taking profits (Trigger: taking profit)
+--------------------------------------
