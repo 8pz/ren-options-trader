@@ -114,6 +114,8 @@ Designed to be flexible and reliable -- it provides users with a wide array of c
  
 ## Showcase
 
+![image](https://github.com/8pz/ren-options-trader/assets/70970973/6369fc0a-ed56-4752-9aac-43ae95772adf)
+
 ![image](https://github.com/8pz/ren-options-trader/assets/70970973/dd562cf0-4c1a-4982-b723-c4adf2ba5827)
 
 ![image](https://github.com/8pz/ren-options-trader/assets/70970973/799c3e59-2c04-4179-a45e-696f19255051)
