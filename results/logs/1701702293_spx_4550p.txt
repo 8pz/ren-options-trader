@@ -1,0 +1,15 @@
+Contract: SPX 12/04 4550p
+Filled time: 12/04/2023 10:04:45 EST
+Filled price: 2.45
+Content: bto spx 12/04 4550p  2.5 scaling in 846415857311416351 (Trigger: BTO)
+--------------------------------------
+Trim: SPXW 12/04 4550p
+Filled price: 2.9
+Filled time: 12/04/2023 10:15:26 EST
+Content: trimming spx puts on the way down, manage your trade(s) on your own. alerting is complicated today with the major stength divergences 846415857311416351 (Trigger: trimming)
+--------------------------------------
+Exit: SPXW 12/04 4550p
+Filled price: 2.93
+Filled time: 12/04/2023 10:15:36 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------

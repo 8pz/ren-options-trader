@@ -1,0 +1,10 @@
+BTO: 6x SPX 12/04 4585c
+Filled price: 0.8
+Filled time: 12/04/2023 12:58:14 EST
+Content: bto spx 4585c  .75 1046900983483088946 (Trigger: BTO)
+--------------------------------------
+Exit: SPXW 12/04 4585c
+Filled price: 0.53
+Filled time: 12/04/2023 13:04:52 EST
+Content: selling these 1046900983483088946 swing and a miss on that play 🤮 (Trigger: selling)
+--------------------------------------

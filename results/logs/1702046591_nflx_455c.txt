@@ -1,0 +1,15 @@
+BTO: 4x NFLX 12/08 455c
+Filled price: 1.2
+Filled time: 12/08/2023 09:42:59 EST
+Content: 948220810995306506 new entry - day trade 🎟️ contract: nflx 455c  1.2 🛑 stop: 451 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
+--------------------------------------
+Trim: NFLX 12/08 455c
+Filled price: 1.41
+Filled time: 12/08/2023 09:50:21 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------
+Exit: NFLX 12/08 455c
+Filled price: 0.91
+Filled time: 12/08/2023 09:54:54 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------

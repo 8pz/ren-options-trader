@@ -1,0 +1,20 @@
+BTO: 5x NVDA 12/08 475c
+Filled price: 0.9
+Filled time: 12/08/2023 09:40:27 EST
+Content: 948220810995306506 new entry - day trade 🎟️ contract: nvda 475c  .9 🛑 stop: 468.65 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
+--------------------------------------
+Trim: NVDA 12/08 475c
+Filled price: 1.31
+Filled time: 12/08/2023 09:44:42 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------
+Trim: NVDA 12/08 475c
+Filled price: 1.33
+Filled time: 12/08/2023 09:45:35 EST
+Content: 948220810995306506 trimming - day trade ✂️ trim: nvda 475c  1.4 📝 notes: safety trim 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+--------------------------------------
+Exit: NVDA 12/08 475c
+Filled price: 1.12
+Filled time: 12/08/2023 09:46:29 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------

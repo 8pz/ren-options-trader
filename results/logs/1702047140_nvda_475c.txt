@@ -1,0 +1,10 @@
+BTO: 6x NVDA 12/08 475c
+Filled price: 0.77
+Filled time: 12/08/2023 09:52:11 EST
+Content: 948220810995306506 new entry - day trade 🎟️ contract: nvda 475c  .75 🛑 stop: 468.75 📝 notes: adding back on this retest (Trigger: NEW ENTRY - DAY TRADE)
+--------------------------------------
+Trim: NVDA 12/08 475c
+Filled price: 0.87
+Filled time: 12/08/2023 09:58:23 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------

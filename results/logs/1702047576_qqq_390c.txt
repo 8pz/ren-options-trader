@@ -1,0 +1,10 @@
+BTO: 4x QQQ 12/08 390c
+Filled price: 0.95
+Filled time: 12/08/2023 09:59:27 EST
+Content: bto qqq 12/08 390c  /92 half 846415857311416351 (Trigger: BTO)
+--------------------------------------
+Exit: QQQ 12/08 390c
+Filled price: 1.42
+Filled time: 12/08/2023 10:00:21 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------
