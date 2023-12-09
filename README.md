@@ -191,6 +191,12 @@ https://github.com/8pz/ren-options-trader/assets/70970973/a3cd2d13-09d5-49fe-b26
 - Average down improvements
 - Improved log handler system
 
+### 12/09/23
+
+- Expiration date formatting
+- Better log formatting
+- Bug fixes
+
 ## In development
 
 - Preset message formats
