@@ -1,0 +1,17 @@
+BTO: 9x QQQ 12/12 397p
+Filled price: 0.77
+Filled time: 12/12/2023 11:08:49 EST
+Content: bto qqq 12/12 397p  .77 smaller scalp here off my pivot 846415857311416351 (Trigger: BTO)
+--------------------------------------
+Trim: QQQ 12/12 397p
+Filled price: 0.87
+Filled time: 12/12/2023 11:12:37 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------
+Exit: QQQ 12/12 397p
+Filled price: 0.86
+Filled time: 12/12/2023 11:12:56 EST
+Content: qqq puts hit .9 for 16% gains 🔥 
+
+i sold 846415857311416351 (Trigger: sold)
+--------------------------------------

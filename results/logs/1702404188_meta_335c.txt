@@ -1,0 +1,15 @@
+BTO: 2x META 12/12 335c
+Filled price: 2.15
+Filled time: 12/12/2023 13:02:55 EST
+Content: 948220810995306506 new entry - day trade 🎟️ contract: meta 335c  2.1 🛑 stop: 330 📝 notes: re-entry (Trigger: NEW ENTRY - DAY TRADE)
+--------------------------------------
+Trim: META 12/15 335c
+Filled price: 2.34
+Filled time: 12/12/2023 13:53:52 EST
+Content: 948220810995306506 trimming - day trade ✂️ trim: meta 335c  2.35 📝 notes: safety trim 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+--------------------------------------
+Exit: META 12/15 335c
+Filled price: 2.86
+Filled time: 12/12/2023 15:03:50 EST
+Content: 948220810995306506 trimming - day trade ✂️ trim: meta 335c  2.9 📝 notes: ​ 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+--------------------------------------

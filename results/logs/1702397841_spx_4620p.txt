@@ -1,0 +1,10 @@
+BTO: 2x SPX 12/12 4620p
+Filled price: 3.34
+Filled time: 12/12/2023 11:17:08 EST
+Content: bto spx 12/12 4620p  3.3 846415857311416351 (Trigger: BTO)
+--------------------------------------
+Exit: SPXW 12/12 4620p
+Filled price: 2.53
+Filled time: 12/12/2023 11:23:54 EST
+Content: averaging down  2.35 on spx incase this is a bearish sweep. off my game today, once again could've easily sold in profit. never got the bear pennant break though 846415857311416351 (Trigger: sold)
+--------------------------------------

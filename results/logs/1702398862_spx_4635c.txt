@@ -1,0 +1,10 @@
+BTO: 1x SPX 12/12 4635c
+Filled price: 2.85
+Filled time: 12/12/2023 11:34:11 EST
+Content: bto spx 12/12 4635c  2.9 last trade. half size 846415857311416351 (Trigger: BTO)
+--------------------------------------
+Exit: SPXW 12/12 4635c
+Filled price: 3.15
+Filled time: 12/12/2023 11:38:29 EST
+Content: trimming here  3.2 and 3.3 846415857311416351 (Trigger: trimming)
+--------------------------------------

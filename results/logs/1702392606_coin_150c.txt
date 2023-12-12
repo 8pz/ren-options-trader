@@ -1,0 +1,15 @@
+BTO: 4x COIN 12/12 150c
+Filled price: 1.05
+Filled time: 12/12/2023 09:49:53 EST
+Content: 948220810995306506 new entry - day trade 🎟️ contract: coin 150c  1 🛑 stop: lod 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
+--------------------------------------
+Trim: COIN 12/15 150c
+Filled price: 1.13
+Filled time: 12/12/2023 09:54:11 EST
+Content: 948220810995306506 trimming - day trade ✂️ trim: coin 150c  1.25 📝 notes: pml 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+--------------------------------------
+Exit: COIN 12/15 150c
+Filled price: 1.48
+Filled time: 12/12/2023 10:09:18 EST
+Content: Called by GUI (Trigger: None)
+--------------------------------------
