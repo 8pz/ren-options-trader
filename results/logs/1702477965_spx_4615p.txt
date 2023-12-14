@@ -1,0 +1,10 @@
+BTO: 1x SPX 12/13 4615p
+Filled price: 2.69
+Filled time: 12/13/2023 09:32:32 EST
+Content: bto spx 12/13 4615p  2.75 half 846415857311416351 (Trigger: BTO)
+--------------------------------------
+Exit: SPXW 12/13 4615p
+Filled price: 2.05
+Filled time: 12/13/2023 09:34:47 EST
+Content: closed that small half size for a loss (Trigger: closed)
+--------------------------------------

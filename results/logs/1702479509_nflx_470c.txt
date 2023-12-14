@@ -1,0 +1,10 @@
+BTO: 1x NFLX 12/13 470c
+Filled price: 2.94
+Filled time: 12/13/2023 09:58:15 EST
+Content: 948220810995306506 new entry - day trade 🎟️ contract: nflx 470c  2.95 🛑 stop: 464 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
+--------------------------------------
+Exit: NFLX 12/15 470c
+Filled price: 3.45
+Filled time: 12/13/2023 10:09:44 EST
+Content: 948220810995306506 trimming - day trade ✂️ trim: nflx 470c  3.45 📝 notes: ​ 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
+--------------------------------------

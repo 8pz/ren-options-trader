@@ -1,0 +1,10 @@
+BTO: 2x SPX 12/13 4680c
+Filled price: 2.4
+Filled time: 12/13/2023 09:37:07 EST
+Content: bto spx 12/13 4680c  2.35 half again 846415857311416351 (Trigger: BTO)
+--------------------------------------
+Exit: SPXW 12/13 4680c
+Filled price: 2.03
+Filled time: 12/13/2023 09:44:01 EST
+Content: out for another small loss. unfortunate, bull pennant broke to downside. bearish for nlod now 846415857311416351 (Trigger: small loss)
+--------------------------------------

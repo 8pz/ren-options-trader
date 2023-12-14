@@ -1,0 +1,15 @@
+BTO: 2x SPX 12/13 4680c
+Filled price: 2.35
+Filled time: 12/13/2023 10:06:56 EST
+Content: bto spx 12/13 4680c  2.4 half 846415857311416351 (Trigger: BTO)
+--------------------------------------
+Trim: SPXW 12/13 4680c
+Filled price: 2.55
+Filled time: 12/13/2023 10:11:16 EST
+Content: taking profits, moved sl to be and letting rest ride or die. 846415857311416351 (Trigger: taking profit)
+--------------------------------------
+Exit: SPXW 12/13 4680c
+Filled price: 2.53
+Filled time: 12/13/2023 10:13:13 EST
+Content: flawless trading this morning though. both losses and wins had flawless reasoning, entries, and exits. you guys may not see it but today was a huge step up from yesterday. psychology was on point. took profits right when pt was hit, stopped out the second hypothesis was invalidated, etc. 846415857311416351 (Trigger: took profit)
+--------------------------------------

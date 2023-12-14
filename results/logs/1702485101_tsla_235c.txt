@@ -1,0 +1,10 @@
+BTO: 2x TSLA 12/13 235c
+Filled price: 1.91
+Filled time: 12/13/2023 11:31:27 EST
+Content: 948220810995306506 new entry - day trade 🎟️ contract: tsla 235c  1.9 🛑 stop: lod 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
+--------------------------------------
+Exit: TSLA 12/15 235c
+Filled price: 1.96
+Filled time: 12/13/2023 11:54:47 EST
+Content: 948220810995306506 tsla sl up to be here if i get sl'd i'm prob gonna call it till post fomc (Trigger: SL'd)
+--------------------------------------
