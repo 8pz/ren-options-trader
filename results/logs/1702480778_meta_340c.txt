@@ -1,10 +1,0 @@
-BTO: 2x META 12/13 340c
-Filled price: 2.01
-Filled time: 12/13/2023 10:19:24 EST
-Content: 948220810995306506 new entry - day trade 🎟️ contract: meta 340c  2 🛑 stop: pre market high  334 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
---------------------------------------
-Exit: META 12/15 340c
-Filled price: 1.66
-Filled time: 12/13/2023 11:08:08 EST
-Content: 948220810995306506 closing - day trade 🪂 exit: meta 📝 notes: sl'd here at 1.75 (Trigger: CLOSING - DAY TRADE)
---------------------------------------

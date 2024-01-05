@@ -1,10 +1,0 @@
-BTO: 4x NVDA 12/13 500c
-Filled price: 1.14
-Filled time: 12/13/2023 09:59:46 EST
-Content: 948220810995306506 new entry - day trade 🎟️ contract: nvda 500c  1.15 🛑 stop: 480.50 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
---------------------------------------
-Exit: NVDA 12/15 500c
-Filled price: 1.22
-Filled time: 12/13/2023 10:00:50 EST
-Content: 948220810995306506 wynn sl here  no lower (Trigger: SL here)
---------------------------------------

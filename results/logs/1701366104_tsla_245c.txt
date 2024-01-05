@@ -1,10 +1,0 @@
-Contract: TSLA 11/30 245c
-Filled time: 11/30/2023 12:41:30 EST
-Filled price: 2.13
-Content: 948220810995306506 new entry - day trade 🎟️ contract: tsla 245c  2.15 🛑 stop:  240 📝 notes: just looking for some short covering ahead of the event (Trigger: NEW ENTRY - DAY TRADE)
---------------------------------------
-Exit: TSLA 12/01 245c
-Filled price: 1.88
-Filled time: 11/30/2023 13:06:37 EST
-Content: 948220810995306506 closing - day trade 🪂 exit: tsla 245c  1.95 📝 notes: wewap rejection (Trigger: CLOSING - DAY TRADE)
---------------------------------------

@@ -1,10 +1,0 @@
-BTO: 8x AMZN 12/15 150c
-Filled price: 0.56
-Filled time: 12/12/2023 15:51:49 EST
-Content: 948220810995306506 opening - swing trade 📜 contract: amzn 12/15 150c  .56 🛑 stop:  146.75 📝 notes: ​  intended to be opened in the last 30m of trade (Trigger: OPENING - SWING TRADE)
---------------------------------------
-Exit: AMZN 12/15 150c
-Filled price: 1.04
-Filled time: 12/13/2023 09:31:50 EST
-Content: Called by GUI (Trigger: None)
---------------------------------------

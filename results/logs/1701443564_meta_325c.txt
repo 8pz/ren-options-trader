@@ -1,10 +1,0 @@
-Contract: META 12/01 325c
-Filled time: 12/01/2023 10:12:31 EST
-Filled price: 0.92
-Content: 948220810995306506 new entry - day trade 🎟️ contract: meta 325c  .88 🛑 stop: lod 📝 notes: ​ (Trigger: NEW ENTRY - DAY TRADE)
---------------------------------------
-Exit: META 12/01 325c
-Filled price: 0.57
-Filled time: 12/01/2023 10:17:05 EST
-Content: 948220810995306506 closing - day trade 🪂 exit: meta 325c  .6 tsla 240c  .3 📝 notes: no dice (Trigger: CLOSING - DAY TRADE)
---------------------------------------

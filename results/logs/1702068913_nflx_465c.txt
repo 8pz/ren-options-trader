@@ -1,10 +1,0 @@
-BTO: 1x NFLX 12/15 465c
-Filled price: 2.23
-Filled time: 12/08/2023 15:55:01 EST
-Content: 948220810995306506 opening - swing trade 📜 contract: nflx 12/15 465c  2.2 🛑 stop: a daily close below 450 📝 notes: very small  intended to be opened in the last 30m of trade (Trigger: OPENING - SWING TRADE)
---------------------------------------
-Exit: NFLX 12/15 465c
-Filled price: 4.08
-Filled time: 12/11/2023 09:30:14 EST
-Content: Called by GUI (Trigger: None)
---------------------------------------

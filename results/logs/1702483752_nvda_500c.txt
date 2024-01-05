@@ -1,10 +1,0 @@
-BTO: 4x NVDA 12/13 500c
-Filled price: 1.15
-Filled time: 12/13/2023 11:08:57 EST
-Content: 948220810995306506 new entry - day trade 🎟️ contract: nvda 500c  1.1 🛑 stop: 482 📝 notes: jumped back in at 1 (Trigger: NEW ENTRY - DAY TRADE)
---------------------------------------
-Exit: NVDA 12/15 500c
-Filled price: 0.96
-Filled time: 12/13/2023 11:23:34 EST
-Content: 948220810995306506 closing - day trade 🪂 exit: nvda 500c  .95 📝 notes: eh that's what i get (Trigger: CLOSING - DAY TRADE)
---------------------------------------

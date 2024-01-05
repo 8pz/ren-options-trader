@@ -1,10 +1,0 @@
-BTO: 1x NVDA 12/07 470c
-Filled price: 1.7
-Filled time: 12/07/2023 10:40:35 EST
-Content: 948220810995306506 new entry - day trade 🎟️ contract: nvda 470c  1.75 🛑 stop: 461.8 📝 notes: small, first break. lets see... (Trigger: NEW ENTRY - DAY TRADE)
---------------------------------------
-Exit: NVDA 12/08 470c
-Filled price: 1.87
-Filled time: 12/07/2023 10:54:11 EST
-Content: 948220810995306506 trimming - day trade ✂️ trim: nvda 470c  1.9 📝 notes: safety trim 🛑 slbe (Trigger: TRIMMING - DAY TRADE)
---------------------------------------

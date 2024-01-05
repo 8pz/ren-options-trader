@@ -1,10 +1,0 @@
-BTO: 20x WMT 12/07 155c
-Filled price: 0.21
-Filled time: 12/07/2023 10:48:54 EST
-Content: 948220810995306506 new entry - day trade 🎟️ contract: wmt 155c  .2 🛑 stop: .17 📝 notes: double bottom 👀 (Trigger: NEW ENTRY - DAY TRADE)
---------------------------------------
-Exit: WMT 12/08 155c
-Filled price: 0.15
-Filled time: 12/07/2023 11:15:27 EST
-Content: 948220810995306506 getting busy here sl here on wmt then thinking i’m packing up to move again (Trigger: SL here)
---------------------------------------
